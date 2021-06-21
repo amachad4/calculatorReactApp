@@ -1,0 +1,26 @@
+body {
+  background: grey;
+}
+
+.button-container {
+  position: relative;
+  min-height: 500px;
+}
+
+.calculator-wrapper {
+  width: 400px;
+  background-color: #000;
+  height: auto;
+  margin: 20px auto;
+}
+
+.operator-container {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 90px;
+}
+
+.integer-container {
+  width: 280px;
+}

@@ -1,0 +1,19 @@
+p {
+ display: inline;
+ word-wrap: break-word;
+ font-size: 2rem;
+}
+
+.number {
+  color: yellow;
+}
+
+.expression {
+  color: orange;
+}
+
+.display {
+  background: #000;
+  min-height: 80px;
+  height: auto;
+}
